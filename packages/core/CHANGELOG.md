@@ -1,5 +1,29 @@
 # @zerodev/sdk
 
+## 5.4.26
+
+### Patch Changes
+
+- fix: remove logs from 7702 flow
+
+## 5.4.25
+
+### Patch Changes
+
+- feat: use publicClient transport url in sponsorWalletClient for 7702
+
+## 5.4.24
+
+### Patch Changes
+
+- fix: update kernelv3.3beta contracts with eip191 support
+
+## 5.4.23
+
+### Patch Changes
+
+- fix: remove `initialize` data from 7702 delegation tx call
+
 ## 5.4.22
 
 ### Patch Changes
